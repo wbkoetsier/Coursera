@@ -9,7 +9,11 @@ The course was divided into 8 mini-projects, working towards a working version o
 In this repo, I will create a version of the game that will run outside CodeSkulptor. The aim is to have some reference of my Python and programming skills. If you do not like this, don't tell me, or there will be some French taunting.
 
 ## Repo contents ##
-I added the original code I wrote for the course as the file [mini-project_8-RiceRocks.py](mini-project_8-RiceRocks.py). This code will only run from within CodeSkulptor and is the same as the code in [my link above](http://www.codeskulptor.org/#user16_e6F8aer7ZhTPlYb_8.py).
+### README ###
+This file. Will update when needed.
+
+### mini-project_8-RiceRocks.py ###
+I added the original code I wrote for the course as the file [mini-project_8-RiceRocks.py](mini-project_8-RiceRocks.py). This code will only run from within CodeSkulptor and is the same as the code in [my link above](http://www.codeskulptor.org/#user16_e6F8aer7ZhTPlYb_8.py). To run, go to that page and click the run arrow in the top left above the code. You (or I) could try to save some spam and eggs using the save button next to the run button, but that will change the URL, leaving this version unchanged. For more information on CodeSkulptor, try the Docs button. The docs have this to say about requirements: "CodeSkulptor runs in Google Chrome 18+, Mozilla Firefox 11+, and Apple Safari 6+. Some features may work in other browsers, such as Microsoft Internet Explorer, but do not expect full functionality."
 
 ## "An Introduction to Interactive Programming in Python" course syllabus ##
 
