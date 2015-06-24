@@ -8,6 +8,9 @@ The course was divided into 8 mini-projects, working towards a working version o
 
 In this repo, I will create a version of the game that will run outside CodeSkulptor. The aim is to have some reference of my Python and programming skills. If you do not like this, don't tell me, or there will be some French taunting.
 
+## Repo contents ##
+I added the original code I wrote for the course as the file [mini-project_8-RiceRocks.py](mini-project_8-RiceRocks.py). This code will only run from within CodeSkulptor and is the same as the code in [my link above](http://www.codeskulptor.org/#user16_e6F8aer7ZhTPlYb_8.py).
+
 ## "An Introduction to Interactive Programming in Python" course syllabus ##
 
 This class consists of two parts that are five and four weeks long, respectively.  For most weeks, you will watch two sets of videos (part a and part b) and then complete one quiz for each set. The main task for each week is to complete a mini-project that is due along with the quizzes early Sunday morning.  You will then be asked to assess your peer's mini-projects on the following Sunday-Wednesday.
