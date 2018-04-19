@@ -1,6 +1,8 @@
 # RiceRocks #
 RiceRocks Python game outside CodeSculptor
 
+--I never actually finished this :P--
+
 ## Project description ##
 In May/June 2013 I completed the Coursera.org course "An Introduction to Interactive Programming in Python" (https://www.coursera.org/course/interactivepython, now a two-part course part of the "Fundamentals of Computing Specialization"). This course aims at learning the basics of building simple interactive applications using Python. I chose this course to learn the basics of Pyhton and to repeat programming fundamentals.
 
